@@ -1,5 +1,3 @@
-301307928  yla468  Yimin Long
-
 Methods:
 priority queue and map
 before 0: push element into priority queue L1
